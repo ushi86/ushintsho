@@ -15,15 +15,7 @@
 
  - 📫 How to reach me: [Discord](dsc.bio/blitzey) 
  
- 
 
-
-
-
-
-
-
-
-
-
-
+<h3 id="social">Contact me </h3>
+<a href="//github.com/blitzey86"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
+<a href="mailto:blitzey86@gmail.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>

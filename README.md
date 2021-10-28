@@ -10,6 +10,8 @@
 ### Programming languages
 <a href="#">
     <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/languages/python.svg">
+    <img src="https://user-images.githubusercontent.com/87962367/139207165-deb3c285-0119-411c-8f41-066194315ae2.png">
+
 </a> 
 
 

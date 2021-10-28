@@ -12,7 +12,6 @@
     <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/languages/python.svg">
 </a> 
 
-extra &nbsp;&nbsp; space
 
  - 📫 How to reach me: [Discord](dsc.bio/blitzey) 
  

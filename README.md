@@ -4,8 +4,8 @@
 
 
  • 🔭 I’m currently trying to figure out when you’re finally going to ask me out.
- • 🌱 I’m currently learning Java Script Algorithms & Data Structures.
- • ⚡ Fun fact : 
+- • 🌱 I’m currently learning Java Script Algorithms & Data Structures.
+- • ⚡ Fun fact : 
  
 ### Programming languages
 <a href="#">
